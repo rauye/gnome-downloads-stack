@@ -2,7 +2,7 @@
 
 All notable changes to Downloads Stack will be documented in this file.
 
-## 1.0.0 - Unreleased
+## 1.0.0 - 2026-10-14
 
 - Add the Downloads indicator for GNOME Shell 46 on X11.
 - Show recent downloads in a lightweight GTK 4 window.
