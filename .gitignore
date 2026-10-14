@@ -1,0 +1,4 @@
+/dist/
+*.shell-extension.zip
+*~
+*.swp

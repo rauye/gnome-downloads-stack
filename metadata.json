@@ -1,0 +1,7 @@
+{
+  "uuid": "downloads-stack@rauye.github.io",
+  "name": "Downloads Stack",
+  "description": "Quick access to recent downloads from the top panel, with drag and drop to other applications. Requires an X11/Xorg session; Wayland is not supported.",
+  "shell-version": ["46"],
+  "url": "https://github.com/rauye/gnome-downloads-stack"
+}
